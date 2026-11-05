@@ -10,11 +10,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/m-rouhan-khan-mxr28/"><img src="https://img.shields.io/badge/LinkedIn-Connect-A78BFA?style=for-the-badge" alt="Connect on LinkedIn"></a>
   <a href="mailto:rouhan28may@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s_talk-F0B06A?style=for-the-badge" alt="Email Roohan"></a>
-  <a href="https://github.com/rouhan28may-droid?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-42405A?style=for-the-badge" alt="Browse repositories"></a>
+  <a href="https://github.com/M-Roohan-Khan-28?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-42405A?style=for-the-badge" alt="Browse repositories"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rouhan28may-droid&amp;label=Profile+views&amp;color=8b5cf6&amp;style=flat-square" alt="Third-party profile view counter">
+  <img src="https://komarev.com/ghpvc/?username=M-Roohan-Khan-28&amp;label=Profile+views&amp;color=8b5cf6&amp;style=flat-square" alt="Third-party profile view counter">
 </p>
 
 ## ABOUT ME
@@ -48,17 +48,17 @@ I am open to **freelance RTL development, simulation debugging, and self-checkin
 
 | Project | What to explore |
 | :--- | :--- |
-| [RV32I-subset SoC + AXI4-Lite SRAM](https://github.com/rouhan28may-droid/riscv-axi-soc) | CPU/bus/memory integration, layered verification and recorded regression evidence. |
-| [AXI4-Lite Master/Slave Memory Interface](https://github.com/rouhan28may-droid/axi4-lite-memory-interface) | Standalone SoC bus/memory extraction with directed master, slave, and end-to-end ModelSim tests. |
-| [APB interface exercise](https://github.com/rouhan28may-droid/apb-interface-verification) | SystemVerilog interface-based RTL and verification. |
-| [APB modports exercise](https://github.com/rouhan28may-droid/apb-modports-verification) | Master/slave signal-direction organization and readback tests. |
-| [AHB-Lite RAM](https://github.com/rouhan28may-droid/ahb-lite-ram) | A memory-interface exercise with retained simulation evidence. |
-| [Two-way cache controller](https://github.com/rouhan28may-droid/two-way-cache-controller) | Cache-control RTL and existing functional checks. |
-| [VGA / SRAM controller](https://github.com/rouhan28may-droid/vga-sram-controller) | Video-timing and SRAM framebuffer logic. |
-| [Eight-operation ALU](https://github.com/rouhan28may-droid/alu-verification) | Arithmetic / logic RTL and verification exercises. |
-| [Food Court Kiosk — final-year project](https://github.com/rouhan28may-droid/foodcourt-kiosk-fyp) | My existing cloud-based kiosk project. |
+| [RV32I-Subset SoC with AXI4-Lite SRAM](https://github.com/M-Roohan-Khan-28/RV32I-AXI4-Lite-SoC) | CPU/bus/memory integration, layered verification and recorded regression evidence. |
+| [AXI4-Lite Master and Slave Memory Interface](https://github.com/M-Roohan-Khan-28/AXI4-Lite-Memory-Interface) | Standalone master/slave SRAM path with independent channel handshakes and seven directed ModelSim testbenches. |
+| [APB RAM Interface and Verification](https://github.com/M-Roohan-Khan-28/APB-Interface-Verification) | SystemVerilog interface-based RTL and verification. |
+| [APB RAM with Master and Slave Modports](https://github.com/M-Roohan-Khan-28/APB-Modports-Verification) | Master/slave signal-direction organization and readback tests. |
+| [AHB-Lite RAM Interface and Directed Verification](https://github.com/M-Roohan-Khan-28/AHB-Lite-RAM-Interface) | A memory-interface exercise with retained simulation evidence. |
+| [Two-Way Set-Associative Cache RTL](https://github.com/M-Roohan-Khan-28/Two-Way-Cache-RTL) | Two-way tag/data storage, lookup, and directed functional checks. |
+| [VGA Timing Controller with SRAM Framebuffer](https://github.com/M-Roohan-Khan-28/VGA-SRAM-Framebuffer) | Video-timing and SRAM framebuffer logic. |
+| [8-Bit ALU RTL and Verification](https://github.com/M-Roohan-Khan-28/ALU-RTL-Verification) | Arithmetic / logic RTL and verification exercises. |
+| [Food Court Kiosk — final-year project](https://github.com/M-Roohan-Khan-28/foodcourt-kiosk-fyp) | My existing cloud-based kiosk project. |
 
-<sub>These standalone lab repositories preserve source from the original `hdl-labs` collection. Reported simulation results are limited to their supplied checks, not claims of complete protocol compliance, silicon sign-off, or board testing.</sub>
+<sub>The ALU, APB, AHB-Lite, cache, and VGA projects preserve source from the original HDL collection. The standalone AXI4-Lite interface was extracted from the RV32I-subset SoC. Each repository records its source provenance, tested configuration, results, and limits.</sub>
 
 ## CURRENT DIRECTION
 

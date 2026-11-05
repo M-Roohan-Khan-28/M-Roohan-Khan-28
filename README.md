@@ -49,15 +49,15 @@ I am open to **freelance RTL development, simulation debugging, and self-checkin
 | Project | What to explore |
 | :--- | :--- |
 | [RV32I-subset SoC + AXI4-Lite SRAM](https://github.com/rouhan28may-droid/riscv-axi-soc) | CPU/bus/memory integration, layered verification and recorded regression evidence. |
-| [APB interface exercise](https://github.com/rouhan28may-droid/hdl-labs/tree/main/projects/apb-interface) | SystemVerilog interface-based RTL and verification. |
-| [APB modports exercise](https://github.com/rouhan28may-droid/hdl-labs/tree/main/projects/apb-modports) | Master/slave signal-direction organization and readback tests. |
-| [AHB-Lite RAM](https://github.com/rouhan28may-droid/hdl-labs/tree/main/projects/ahb-lite-ram) | A memory-interface exercise with retained simulation evidence. |
-| [Two-way cache controller](https://github.com/rouhan28may-droid/hdl-labs/tree/main/projects/two-way-cache) | Cache-control RTL and existing functional checks. |
-| [VGA / SRAM controller](https://github.com/rouhan28may-droid/hdl-labs/tree/main/projects/vga-sram) | Video-timing and SRAM framebuffer logic. |
-| [Eight-operation ALU](https://github.com/rouhan28may-droid/hdl-labs/tree/main/projects/alu) | Arithmetic / logic RTL and verification exercises. |
+| [APB interface exercise](https://github.com/rouhan28may-droid/apb-interface-verification) | SystemVerilog interface-based RTL and verification. |
+| [APB modports exercise](https://github.com/rouhan28may-droid/apb-modports-verification) | Master/slave signal-direction organization and readback tests. |
+| [AHB-Lite RAM](https://github.com/rouhan28may-droid/ahb-lite-ram) | A memory-interface exercise with retained simulation evidence. |
+| [Two-way cache controller](https://github.com/rouhan28may-droid/two-way-cache-controller) | Cache-control RTL and existing functional checks. |
+| [VGA / SRAM controller](https://github.com/rouhan28may-droid/vga-sram-controller) | Video-timing and SRAM framebuffer logic. |
+| [Eight-operation ALU](https://github.com/rouhan28may-droid/alu-verification) | Arithmetic / logic RTL and verification exercises. |
 | [Food Court Kiosk — final-year project](https://github.com/rouhan28may-droid/foodcourt-kiosk-fyp) | My existing cloud-based kiosk project. |
 
-<sub>Standalone lab repositories are being organized. Links above point to the existing source until the new repositories are published. Reported simulation results are not claims of complete protocol compliance, silicon sign-off, or board testing.</sub>
+<sub>These standalone lab repositories preserve source from the original `hdl-labs` collection. Reported simulation results are limited to their supplied checks, not claims of complete protocol compliance, silicon sign-off, or board testing.</sub>
 
 ## CURRENT DIRECTION
 

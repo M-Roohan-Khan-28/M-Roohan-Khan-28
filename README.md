@@ -49,6 +49,7 @@ I am open to **freelance RTL development, simulation debugging, and self-checkin
 | Project | What to explore |
 | :--- | :--- |
 | [RV32I-subset SoC + AXI4-Lite SRAM](https://github.com/rouhan28may-droid/riscv-axi-soc) | CPU/bus/memory integration, layered verification and recorded regression evidence. |
+| [AXI4-Lite Master/Slave Memory Interface](https://github.com/rouhan28may-droid/axi4-lite-memory-interface) | Standalone SoC bus/memory extraction with directed master, slave, and end-to-end ModelSim tests. |
 | [APB interface exercise](https://github.com/rouhan28may-droid/apb-interface-verification) | SystemVerilog interface-based RTL and verification. |
 | [APB modports exercise](https://github.com/rouhan28may-droid/apb-modports-verification) | Master/slave signal-direction organization and readback tests. |
 | [AHB-Lite RAM](https://github.com/rouhan28may-droid/ahb-lite-ram) | A memory-interface exercise with retained simulation evidence. |

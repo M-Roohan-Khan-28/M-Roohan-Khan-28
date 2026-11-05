@@ -1,19 +1,84 @@
-<img src="assets/banner.svg" alt="Welcome — digital design and software projects" width="100%">
+<p align="center">
+  <img src="assets/banner.svg" alt="M. Roohan Khan — RTL Design, Digital Verification and FPGA" width="100%">
+</p>
 
-# Hi, I'm Roohan 👋
+<p align="center">
+  <strong>Electronics Engineer · M.Engg. Candidate — Integrated Circuit Design, NED University</strong><br>
+  <sub>Karachi, Pakistan · Open to freelance RTL and verification projects</sub>
+</p>
 
-I'm learning by building: writing RTL, checking what happens in simulation, and turning ideas into working software. This is where I keep my projects and the notes that make them easier to understand and run.
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-rouhan-khan-mxr28/"><img src="https://img.shields.io/badge/LinkedIn-Connect-A78BFA?style=for-the-badge" alt="Connect on LinkedIn"></a>
+  <a href="mailto:rouhan28may@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s_talk-F0B06A?style=for-the-badge" alt="Email Roohan"></a>
+  <a href="https://github.com/rouhan28may-droid?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-42405A?style=for-the-badge" alt="Browse repositories"></a>
+</p>
 
-### What I'm working on
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rouhan28may-droid&amp;label=Profile+views&amp;color=8b5cf6&amp;style=flat-square" alt="Third-party profile view counter">
+</p>
 
-- **[HDL labs](https://github.com/rouhan28may-droid/hdl-labs):** Verilog and SystemVerilog modules, memory interfaces, and testbenches.
-- **[RISC-V AXI SoC](https://github.com/rouhan28may-droid/riscv-axi-soc):** a small RISC-V processor with an AXI4-Lite SRAM interface; its 21-run portable regression passes in ModelSim.
-- **My final-year project:** [Food Court Kiosk](https://github.com/rouhan28may-droid/foodcourt-kiosk-fyp).
+## ABOUT ME
 
-### Around here
+I am **M. Roohan Khan**, an Electronics Engineering graduate and **M.Engg. candidate in Electronic Engineering, specializing in Integrated Circuit Design at NED University of Engineering & Technology**.
 
-I like projects with a clear starting point: what they do, how to run them, and what has actually been tested. I'm organizing my hardware labs with source code, simulation scripts, and verification notes so they're useful to revisit and share.
+I enjoy translating digital-system requirements into RTL, building testbenches, and investigating what the waveforms actually show. My work and project interests focus on **Verilog/SystemVerilog, digital interfaces, memory subsystems, FPGA development, and RISC-V-based systems**.
 
-If you're exploring similar topics, feel free to browse the code or open an issue in the relevant repository. Questions and practical suggestions are welcome.
+I am open to **freelance RTL development, simulation debugging, and self-checking testbench work** within a clearly agreed scope. I am also developing my depth in **UVM, SystemVerilog assertions, and coverage-driven verification**.
 
-<sub>Thanks for stopping by.</sub>
+## ENGINEERING FOCUS
+
+| RTL & digital systems | Verification & debugging | Development workflow |
+| :--- | :--- | :--- |
+| Verilog / SystemVerilog | Self-checking testbenches | Linux through WSL |
+| FSMs, registers and memories | Directed and corner-case tests | Vim, Git and GitHub |
+| APB, AHB-Lite and AXI4-Lite projects | Scoreboards and waveform analysis | Reproducible simulation scripts |
+| FPGA and RISC-V learning projects | Building UVM / SVA / coverage skills | Specifications, logs and limitations |
+
+## TOOLS & WORKSPACE
+
+<img src="assets/toolkit.svg" alt="Workflow tools: Xcelium, Questa/ModelSim, Vivado, Quartus Prime, EDA Playground, Linux/WSL, Vim, Git, Python and C/C++" width="100%">
+
+**Simulation and verification:** Cadence Xcelium, Questa / ModelSim, EDA Playground.  
+**FPGA workflow:** AMD Vivado and Quartus Prime.  
+**Programming and automation:** Python, C/C++, shell scripting, Linux / WSL, Vim, Git.
+
+<sub>Tools are listed as part of my workspace and learning workflow. Each project documents the simulator actually used and its measured results.</sub>
+
+## SELECTED WORK
+
+| Project | What to explore |
+| :--- | :--- |
+| [RV32I-subset SoC + AXI4-Lite SRAM](https://github.com/rouhan28may-droid/riscv-axi-soc) | CPU/bus/memory integration, layered verification and recorded regression evidence. |
+| [APB interface exercise](https://github.com/rouhan28may-droid/hdl-labs/tree/main/projects/apb-interface) | SystemVerilog interface-based RTL and verification. |
+| [APB modports exercise](https://github.com/rouhan28may-droid/hdl-labs/tree/main/projects/apb-modports) | Master/slave signal-direction organization and readback tests. |
+| [AHB-Lite RAM](https://github.com/rouhan28may-droid/hdl-labs/tree/main/projects/ahb-lite-ram) | A memory-interface exercise with retained simulation evidence. |
+| [Two-way cache controller](https://github.com/rouhan28may-droid/hdl-labs/tree/main/projects/two-way-cache) | Cache-control RTL and existing functional checks. |
+| [VGA / SRAM controller](https://github.com/rouhan28may-droid/hdl-labs/tree/main/projects/vga-sram) | Video-timing and SRAM framebuffer logic. |
+| [Eight-operation ALU](https://github.com/rouhan28may-droid/hdl-labs/tree/main/projects/alu) | Arithmetic / logic RTL and verification exercises. |
+| [Food Court Kiosk — final-year project](https://github.com/rouhan28may-droid/foodcourt-kiosk-fyp) | My existing cloud-based kiosk project. |
+
+<sub>Standalone lab repositories are being organized. Links above point to the existing source until the new repositories are published. Reported simulation results are not claims of complete protocol compliance, silicon sign-off, or board testing.</sub>
+
+## CURRENT DIRECTION
+
+I am expanding my portfolio through **independently runnable RTL blocks**, **reusable verification environments**, and **clear engineering documentation**. My next verification milestones include stronger assertion checks, functional coverage analysis, and UVM-based APB and AXI4-Lite environments.
+
+## GITHUB ACTIVITY
+
+<img src="assets/activity.svg" alt="GitHub-recorded contributions, public original repositories and followers; generated by GitHub Actions" width="100%">
+
+<sub>Activity cards use GitHub data. Monthly contribution totals are not monthly profile views and are not measures of engineering proficiency.</sub>
+
+## CONTRIBUTION SNAKE
+
+<img src="assets/contribution-snake.svg" alt="Snake animation generated from my actual GitHub contribution calendar" width="100%">
+
+<sub>Animation: [Platane/snk](https://github.com/Platane/snk). The view badge is a separate third-party counter, not GitHub's official unique-visitor analytics.</sub>
+
+## LET'S CONNECT
+
+For scoped RTL development, testbench work, debugging, or collaboration, reach me through **[LinkedIn](https://www.linkedin.com/in/m-rouhan-khan-mxr28/)** or **[email](mailto:rouhan28may@gmail.com)**. A useful starting brief includes the interface specification, expected behaviour, target simulator, and acceptance tests.
+
+---
+
+<p align="center"><em>Define the behaviour. Build the design. Check the evidence.</em></p>

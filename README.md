@@ -49,6 +49,9 @@ I am open to **freelance RTL development, simulation debugging, and self-checkin
 | Project | What to explore |
 | :--- | :--- |
 | [RV32I-Subset SoC with AXI4-Lite SRAM](https://github.com/M-Roohan-Khan-28/RV32I-AXI4-Lite-SoC) | CPU/bus/memory integration, layered verification and recorded regression evidence. |
+| [AXI4 DMA Subsystem](https://github.com/M-Roohan-Khan-28/AXI4-DMA-Subsystem) | Bounded 64-bit memory-to-memory DMA with 32-bit control and 25 independently checked transfer cases. |
+| [AMBA Protocol Verification](https://github.com/M-Roohan-Khan-28/AMBA-Protocol-Verification) | Reusable portable APB, AHB-Lite and AXI checkers and drivers; nine required simulations passed. |
+| [Two-Core Coherent Memory Milestone](https://github.com/M-Roohan-Khan-28/RV32I-Coherent-Memory-SoC) | Two RV32I cores run a shared-memory program (128 checks) over a write-through cache subsystem (71 scenarios); the inherited full AXI SoC remains unverified. |
 | [AXI4-Lite Master and Slave Memory Interface](https://github.com/M-Roohan-Khan-28/AXI4-Lite-Memory-Interface) | Standalone master/slave SRAM path with independent channel handshakes and seven directed ModelSim testbenches. |
 | [APB RAM Interface and Verification](https://github.com/M-Roohan-Khan-28/APB-Interface-Verification) | SystemVerilog interface-based RTL and verification. |
 | [APB RAM with Master and Slave Modports](https://github.com/M-Roohan-Khan-28/APB-Modports-Verification) | Master/slave signal-direction organization and readback tests. |
@@ -58,7 +61,7 @@ I am open to **freelance RTL development, simulation debugging, and self-checkin
 | [8-Bit ALU RTL and Verification](https://github.com/M-Roohan-Khan-28/ALU-RTL-Verification) | Arithmetic / logic RTL and verification exercises. |
 | [Food Court Kiosk — final-year project](https://github.com/M-Roohan-Khan-28/foodcourt-kiosk-fyp) | My existing cloud-based kiosk project. |
 
-<sub>The ALU, APB, AHB-Lite, cache, and VGA projects preserve source from the original HDL collection. The standalone AXI4-Lite interface was extracted from the RV32I-subset SoC. Each repository records its source provenance, tested configuration, results, and limits.</sub>
+<sub>The ALU, APB, AHB-Lite, cache, and VGA projects preserve source from the original HDL collection. The standalone AXI4-Lite interface was extracted from the RV32I-subset SoC. The DMA and coherent-memory projects retain their permitted upstream source history and attribution. Each repository records its source provenance, tested configuration, results, and limits.</sub>
 
 ## CURRENT DIRECTION
 

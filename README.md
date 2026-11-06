@@ -51,7 +51,7 @@ I am open to **freelance RTL development, simulation debugging, and self-checkin
 | [RV32I-Subset SoC with AXI4-Lite SRAM](https://github.com/M-Roohan-Khan-28/RV32I-AXI4-Lite-SoC) | CPU/bus/memory integration, layered verification and recorded regression evidence. |
 | [AXI4 DMA Subsystem](https://github.com/M-Roohan-Khan-28/AXI4-DMA-Subsystem) | Bounded 64-bit memory-to-memory DMA with 32-bit control and 25 independently checked transfer cases. |
 | [AMBA Protocol Verification](https://github.com/M-Roohan-Khan-28/AMBA-Protocol-Verification) | Reusable portable APB, AHB-Lite and AXI checkers and drivers; nine required simulations passed. |
-| [Two-Core Coherent Memory Milestone](https://github.com/M-Roohan-Khan-28/RV32I-Coherent-Memory-SoC) | Two RV32I cores run a shared-memory program (128 checks) over a write-through cache subsystem (63 scenarios); the inherited full AXI SoC remains unverified. |
+| [Two-Core Coherent Memory Milestone](https://github.com/M-Roohan-Khan-28/RV32I-Coherent-Memory-SoC) | Two RV32I cores run a shared-memory program (128 checks) over a write-through cache subsystem (71 scenarios); the inherited full AXI SoC remains unverified. |
 | [AXI4-Lite Master and Slave Memory Interface](https://github.com/M-Roohan-Khan-28/AXI4-Lite-Memory-Interface) | Standalone master/slave SRAM path with independent channel handshakes and seven directed ModelSim testbenches. |
 | [APB RAM Interface and Verification](https://github.com/M-Roohan-Khan-28/APB-Interface-Verification) | SystemVerilog interface-based RTL and verification. |
 | [APB RAM with Master and Slave Modports](https://github.com/M-Roohan-Khan-28/APB-Modports-Verification) | Master/slave signal-direction organization and readback tests. |
